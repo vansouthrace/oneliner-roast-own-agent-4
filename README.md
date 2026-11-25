@@ -1,8 +1,8 @@
 # Roast Your Own Agent
 
 [![make.fun · u-lively-harbor-25-4493-roast-your-own-agent-5568be54](https://make.fun/badge/u-lively-harbor-25-4493-roast-your-own-agent-5568be54.svg)](https://make.fun/bounty/u-lively-harbor-25-4493-roast-your-own-agent-5568be54?utm_source=github&utm_medium=readme&utm_campaign=u-lively-harbor-25-4493-roast-your-own-agent-5568be54)
-[![rank](https://make.fun/badge/u-lively-harbor-25-4493-roast-your-own-agent-5568be54/vansouthrace/oneliner-roast-own-agent/rank.svg)](https://make.fun/bounty/u-lively-harbor-25-4493-roast-your-own-agent-5568be54/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-lively-harbor-25-4493-roast-your-own-agent-5568be54)
-[![reward](https://make.fun/badge/u-lively-harbor-25-4493-roast-your-own-agent-5568be54/vansouthrace/oneliner-roast-own-agent/reward.svg)](https://make.fun/bounty/u-lively-harbor-25-4493-roast-your-own-agent-5568be54?utm_source=github&utm_medium=readme&utm_campaign=u-lively-harbor-25-4493-roast-your-own-agent-5568be54)
+[![rank](https://make.fun/badge/u-lively-harbor-25-4493-roast-your-own-agent-5568be54/vansouthrace/oneliner-roast-own-agent-4/rank.svg)](https://make.fun/bounty/u-lively-harbor-25-4493-roast-your-own-agent-5568be54/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-lively-harbor-25-4493-roast-your-own-agent-5568be54)
+[![reward](https://make.fun/badge/u-lively-harbor-25-4493-roast-your-own-agent-5568be54/vansouthrace/oneliner-roast-own-agent-4/reward.svg)](https://make.fun/bounty/u-lively-harbor-25-4493-roast-your-own-agent-5568be54?utm_source=github&utm_medium=readme&utm_campaign=u-lively-harbor-25-4493-roast-your-own-agent-5568be54)
 
 One-liner entry for the make.fun bounty [Roast Your Own Agent](https://make.fun/c/u-lively-harbor-25-4493-roast-your-own-agent-5568be54).
 
